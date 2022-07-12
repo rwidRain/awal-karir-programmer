@@ -1,2 +1,3 @@
 # awal-karir-programmer
-ini adalah project pertama saya dengan python
+ini adalah project pertama saya dengan Python
+wohooo!
